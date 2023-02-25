@@ -1,5 +1,5 @@
 {
-	"name": "codeception/module-phalcon5",
+	"name": "machobearstudio/module-phalcon5",
 	"description": "Codeception module for Phalcon 5 framework",
 	"keywords": [ "codeception", "phalcon", "phalcon5" ],
 	"homepage": "https://codeception.com/",
@@ -20,7 +20,7 @@
 	"require": {
 		"php": ">=8.0",
 		"ext-json": "*",
-		"codeception/codeception": "^5.0.0-RC1",
+		"codeception/codeception": "^5.0.8",
 		"codeception/module-asserts": "^3.0",
 		"codeception/module-phpbrowser": "^3.0",
 		"codeception/module-db": "^3.0"
